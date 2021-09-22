@@ -12,7 +12,7 @@ This is an implenetation of U-net for classifiaction of underwater environments.
 ## How to estimate
 1. Clone this repository and move into it.
 
-2. Load the trained model. We uploaded it at XXX. This model is trained by using the dataset of 4 lines. (see details in the paper)
+2. Load the trained model (https://doi.org/10.6084/m9.figshare.16655332). This model is trained by using the dataset of 4 lines. (see details in the paper)
 
 3. Put images for prediction in the /test_png directory. Please prepare images with a size of 512x512 pixels and the png format. As examples, several images in the line 2 are prepared in the directory. 
 
