@@ -1,6 +1,9 @@
 # Segmentation method to estimate the coverage of corals, seagrass, and sea urchins
 
-This is an implenetation of U-net for classifiaction of underwater environments.
+This is an implenetation of U-net for classifiaction of underwater environments [1].
+
+[1] K. Terayama, K. Mizuno*, S. Tabeta, S. Sakamoto, Y. Sugimoto, K. Sugimoto, H. Fukami, M. Sakagami, L. A. Jimenez, ["Cost-effective seafloor habitat mapping using a portable speedy sea scanner and deep-learning-based segmentation: A sea trial at Pujada Bay, Philippines,"](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13744) Methods in Ecology and Evolution, 2021. [DOI: 10.1111/2041-210X.13744]
+
 
 ## Requirements
 - python 3.6 
